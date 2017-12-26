@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/lato/v11/nQhiC-wSiJx0pvEuJl8d8A.eot);
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/playfairdisplay/v10/2NBgzUtEeyB-Xtpr9bm1Cbe3AsAJmdYwF3n7gHK4QTQ.eot);
+}
+@font-face {
+  font-family: 'Questrial';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/questrial/v6/MYWJ4lYm5dbZ1UBuYox79PY6323mHUZFJMgTvxaG2iE.eot);
+}
